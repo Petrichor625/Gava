@@ -5,6 +5,5 @@ This repository contains the official implementation of  **Human Observation-Ins
 ## Highlights
 - introduce a sophisticated pooling mechanism that replicates human attention allocation with a novel **adaptive visual sector**.
 - Introduce a novel **dynamic traffic graph** to extract the interaction of agents using a unique **topology graph structure** constructed using Convolutional Neural Networks (CNN) and Graph Attention Networks (GAT).
-- Introducing the MoCAD dataset with its unique right-hand-drive system and mandatory left-hand driving, enriching trajectory prediction studies in complex urban and campus scenarios.
 - In benchmark tests on the NGSIM, HighD, and MoCAD datasets, our model outperforms SOTA baselines by at least 15.2%, 19.4% and 12.0%, respectively, demonstrating its impressive accuracy and applicability in various traffic scenarios, including **highways** and **dense urban areas**.
   

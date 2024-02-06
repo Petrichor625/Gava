@@ -1,4 +1,4 @@
-# BHuman Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments
+# Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments
 
 This repository contains the official implementation of  **Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments**, accepted by the Association for the Advancement of Artificial Intelligence (ICRA) 2024.
 

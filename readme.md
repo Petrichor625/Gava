@@ -11,7 +11,12 @@ This repository contains the official implementation of  **Human Observation-Ins
 **Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments**, accepted by the journal **_IEEE International Conference on Robotics and Automation (ICRA)_.** (Camera-ready)
 
 ```
-
+@article{liao2024human,
+  title={Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments},
+  author={Liao, Haicheng and Liu, Shangqian and Li, Yongkang and Li, Zhenning and Wang, Chengyue and Wang, Bonan and Guan, Yanchen and Xu, Chengzhong},
+  journal={arXiv preprint arXiv:2402.04318},
+  year={2024}
+}
 ```
  
 
